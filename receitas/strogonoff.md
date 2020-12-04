@@ -1,6 +1,6 @@
-# Strogonoff de Frango #
+# Strogonoff de Frango :chicken: #
 
-### Ingredientes
+### Ingredientes 
 
 - [ ] 1kg peito de frango
 - [ ] 1 cebola
